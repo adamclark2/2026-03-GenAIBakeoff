@@ -14,3 +14,6 @@ or
 ```
 Hi, Please use the ReadMe to make a podcast downloader bash script based off the readme.
 ```
+
+  
+![](./docs/GPT-Thumbnail-Candidiates/image2.png)
