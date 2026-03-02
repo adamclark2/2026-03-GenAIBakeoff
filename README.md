@@ -16,7 +16,7 @@ Hi, Please use the ReadMe to make a podcast downloader bash script based off the
 ```
 
 You can also see the article written on my linkedin/blog:
-- [https://adamjamesclark.com/2026/03/01/bakeoff-why-you-need-enterprise-standards-for-ai-compared-across-4x-different-tools](https://adamjamesclark.com/2026/03/01/bakeoff-why-you-need-enterprise-standards-for-ai-compared-across-4x-different-tools/?utm_campaign=social_post&utm_source=test&utm_medium=social_media)
+- [https://adamjamesclark.com/2026/03/01/bakeoff-why-you-need-enterprise-standards-for-ai-compared-across-4x-different-tools](https://adamjamesclark.com/2026/03/01/bakeoff-why-you-need-enterprise-standards-for-ai-compared-across-4x-different-tools/?utm_campaign=social_post&utm_source=github&utm_medium=social_media)
 - TBD
   
 ![](./docs/GPT-Thumbnail-Candidiates/image2.png)
