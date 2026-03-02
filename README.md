@@ -15,5 +15,8 @@ or
 Hi, Please use the ReadMe to make a podcast downloader bash script based off the readme.
 ```
 
+You can also see the article written on my linkedin/blog:
+- https://adamjamesclark.com/2026/03/01/bakeoff-why-you-need-enterprise-standards-for-ai-compared-across-4x-different-tools/
+- TBD
   
 ![](./docs/GPT-Thumbnail-Candidiates/image2.png)
